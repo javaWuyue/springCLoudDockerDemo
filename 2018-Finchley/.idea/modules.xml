@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" filepath="$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-client-refresh/microservice-config-client-refresh.iml" filepath="$PROJECT_DIR$/microservice-config-client-refresh/microservice-config-client-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" filepath="$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-server-encryption/microservice-config-server-encryption.iml" filepath="$PROJECT_DIR$/microservice-config-server-encryption/microservice-config-server-encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-server-encryption-rsa/microservice-config-server-encryption-rsa.iml" filepath="$PROJECT_DIR$/microservice-config-server-encryption-rsa/microservice-config-server-encryption-rsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign-config-java/microservice-consumer-movie-feign-config-java.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign-config-java/microservice-consumer-movie-feign-config-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign-config-properties/microservice-consumer-movie-feign-config-properties.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign-config-properties/microservice-consumer-movie-feign-config-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix/microservice-consumer-movie-feign-hystrix.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix/microservice-consumer-movie-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-fallback-factory/microservice-consumer-movie-feign-hystrix-fallback-factory.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-fallback-factory/microservice-consumer-movie-feign-hystrix-fallback-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-stream/microservice-consumer-movie-feign-hystrix-stream.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-stream/microservice-consumer-movie-feign-hystrix-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon/microservice-consumer-movie-ribbon.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-ribbon/microservice-consumer-movie-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-config-java/microservice-consumer-movie-ribbon-config-java.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-config-java/microservice-consumer-movie-ribbon-config-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-config-properties/microservice-consumer-movie-ribbon-config-properties.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-config-properties/microservice-consumer-movie-ribbon-config-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-hystrix-common/microservice-consumer-movie-ribbon-hystrix-common.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-ribbon-hystrix-common/microservice-consumer-movie-ribbon-hystrix-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-discovery-eureka/microservice-discovery-eureka.iml" filepath="$PROJECT_DIR$/microservice-discovery-eureka/microservice-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-discovery-eureka-authenticating/microservice-discovery-eureka-authenticating.iml" filepath="$PROJECT_DIR$/microservice-discovery-eureka-authenticating/microservice-discovery-eureka-authenticating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-discovery-eureka-ha/microservice-discovery-eureka-ha.iml" filepath="$PROJECT_DIR$/microservice-discovery-eureka-ha/microservice-discovery-eureka-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway-zuul/microservice-gateway-zuul.iml" filepath="$PROJECT_DIR$/microservice-gateway-zuul/microservice-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-gateway-zuul-fallback/microservice-gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/microservice-gateway-zuul-fallback/microservice-gateway-zuul-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-user/microservice-provider-user.iml" filepath="$PROJECT_DIR$/microservice-provider-user/microservice-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-user-sleuth/microservice-provider-user-sleuth.iml" filepath="$PROJECT_DIR$/microservice-provider-user-sleuth/microservice-provider-user-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-user-sleuth-zipkin/microservice-provider-user-sleuth-zipkin.iml" filepath="$PROJECT_DIR$/microservice-provider-user-sleuth-zipkin/microservice-provider-user-sleuth-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-simple-consumer-movie/microservice-simple-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-follow-me.iml" filepath="$PROJECT_DIR$/spring-cloud-follow-me.iml" />
+    </modules>
+  </component>
+</project>
